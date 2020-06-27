@@ -1,0 +1,20 @@
+{
+  "name": "stc_covid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body": "^5.1.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "parser": "^0.1.4",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0"
+  }
+}
